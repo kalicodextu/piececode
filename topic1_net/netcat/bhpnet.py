@@ -1,6 +1,7 @@
 #! /use/bin/env python
 # -*- coding: utf-8 -*-
 # If you mc do not install netcat, you need write script
+# BHP net script tool
 
 import getopt
 import socket
